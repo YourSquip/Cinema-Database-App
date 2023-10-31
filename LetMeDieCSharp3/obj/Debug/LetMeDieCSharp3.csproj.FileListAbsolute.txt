@@ -1,0 +1,12 @@
+D:\Projects\LetMeDieCSharp3\LetMeDieCSharp3\bin\Debug\LetMeDieCSharp3.exe.config
+D:\Projects\LetMeDieCSharp3\LetMeDieCSharp3\bin\Debug\LetMeDieCSharp3.exe
+D:\Projects\LetMeDieCSharp3\LetMeDieCSharp3\bin\Debug\LetMeDieCSharp3.pdb
+D:\Projects\LetMeDieCSharp3\LetMeDieCSharp3\bin\Debug\EntityFramework.dll
+D:\Projects\LetMeDieCSharp3\LetMeDieCSharp3\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\LetMeDieCSharp3\LetMeDieCSharp3\bin\Debug\EntityFramework.xml
+D:\Projects\LetMeDieCSharp3\LetMeDieCSharp3\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\LetMeDieCSharp3\LetMeDieCSharp3\obj\Debug\LetMeDieCSharp3.csprojAssemblyReference.cache
+D:\Projects\LetMeDieCSharp3\LetMeDieCSharp3\obj\Debug\LetMeDieCSharp3.csproj.CoreCompileInputs.cache
+D:\Projects\LetMeDieCSharp3\LetMeDieCSharp3\obj\Debug\LetMeDieCSharp3.csproj.CopyComplete
+D:\Projects\LetMeDieCSharp3\LetMeDieCSharp3\obj\Debug\LetMeDieCSharp3.exe
+D:\Projects\LetMeDieCSharp3\LetMeDieCSharp3\obj\Debug\LetMeDieCSharp3.pdb
